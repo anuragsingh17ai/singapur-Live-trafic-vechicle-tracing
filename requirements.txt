@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+numpy==1.23.5
+opencv_python==4.10.0.84
+pandas==2.0.2
+plotly==5.23.0
+Requests==2.32.3
+streamlit==1.39.0
+ultralytics==8.3.19
